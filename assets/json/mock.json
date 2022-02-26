@@ -2,31 +2,38 @@
     "dashboard": [
         {
             "title": "News",
-            "imageUri": ""
+            "imageUri": "",
+            "description": "Mauris mollis consectetur mi. "
         },
         {
             "title": "Articles",
-            "imageUri": ""
+            "imageUri": "",
+            "description": "Nam tortor velit, ultricies eget velit vitae, tempor interdum nulla. Sed hendrerit libero tortor, a vestibulum lacus fringilla a. Morbi mollis tempus felis non mattis. Phasellus suscipit lobortis sagittis. Nunc interdum luctus tortor sed congue. Proin vulputate maximus odio vitae convallis. Suspendisse cursus augue vitae odio posuere consequat. Phasellus at leo luctus, tincidunt arcu eget, imperdiet metus. Integer eget sem ut quam pretium feugiat."
         },
         {
             "title": "Dummy 1",
-            "imageUri": ""
+            "imageUri": "",
+            "description": "Nulla fringilla magna a libero feugiat ultrices."
         },
         {
             "title": "Dummy 2",
-            "imageUri": ""
+            "imageUri": "",
+            "description": "Maecenas interdum nunc quis turpis facilisis egestas. Duis ornare venenatis felis vel fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer consequat tellus magna, ut aliquet neque ultrices quis. Nulla facilisi. In dignissim, quam quis tincidunt lobortis, justo leo vestibulum nulla, at sagittis turpis augue eu nisl. In scelerisque egestas felis, a consequat sem luctus id."
         },
         {
             "title": "Dummy 3",
-            "imageUri": ""
+            "imageUri": "",
+            "description": "Donec elementum, est ac bibendum tincidunt, enim dolor interdum ipsum, egestas sagittis nulla odio sed nunc. Integer semper venenatis mi eget pretium. Suspendisse vehicula libero quis scelerisque dictum. In rhoncus lobortis nulla, et elementum quam ornare eget. Donec lobortis, turpis in convallis malesuada, felis nunc cursus turpis, nec ultricies erat lectus eget nulla. Nulla pellentesque laoreet metus, quis tristique nisi rutrum nec. Sed ac sem ex. Phasellus sem arcu, euismod consequat justo vel, sagittis semper tortor. Nunc at fermentum sem. Aliquam in elit eros. Nulla dictum, odio id accumsan vehicula, turpis turpis rutrum quam, ut consectetur ipsum ex non magna. Aenean ornare libero nec consectetur mattis. Maecenas felis ante, euismod semper egestas a, bibendum nec nisi."
         },
         {
             "title": "Dummy 4",
-            "imageUri": ""
+            "imageUri": "",
+            "description": "Duis laoreet molestie ultrices. Aenean pharetra dapibus dui, eu venenatis odio dictum et. Cras et ipsum nisi. Donec sit amet finibus tortor. Nam eget iaculis felis, vitae elementum felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla a mi commodo, bibendum mi ut, tempor neque. Suspendisse eu augue pretium, cursus libero sed, elementum quam. Vivamus malesuada elementum nulla a ultrices. Nam congue ullamcorper elit et venenatis. Nulla in elit laoreet, facilisis lacus accumsan, maximus erat. Praesent quis purus felis. Mauris tempor congue elit, faucibus porttitor nisi feugiat sit amet. Integer eget lectus sit amet tortor mattis pharetra quis vel enim. Ut mattis purus pulvinar, blandit ex feugiat, rutrum tortor. Ut gravida bibendum lorem, nec finibus sapien rutrum sit amet."
         },
         {
             "title": "Dummy 5",
-            "imageUri": ""
+            "imageUri": "",
+            "description": "Cras nec imperdiet orci. Aliquam vitae nibh mattis, gravida dolor eget, efficitur mi. In at tellus pellentesque, pulvinar metus ut, vestibulum purus. Nunc dui eros, ultricies vestibulum eleifend ut, convallis id turpis. Duis ultrices tellus ipsum. Suspendisse arcu nisl, egestas eu lorem vel, placerat pharetra neque. Mauris ut auctor ipsum. Phasellus ut lobortis neque, vel interdum enim. Aliquam quis ipsum dapibus, porttitor urna nec, consequat purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut sit amet nisl dolor."
         }
     ]
 }
