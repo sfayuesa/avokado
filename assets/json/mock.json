@@ -1,0 +1,32 @@
+{
+    "dashboard": [
+        {
+            "title": "News",
+            "imageUri": ""
+        },
+        {
+            "title": "Articles",
+            "imageUri": ""
+        },
+        {
+            "title": "Dummy 1",
+            "imageUri": ""
+        },
+        {
+            "title": "Dummy 2",
+            "imageUri": ""
+        },
+        {
+            "title": "Dummy 3",
+            "imageUri": ""
+        },
+        {
+            "title": "Dummy 4",
+            "imageUri": ""
+        },
+        {
+            "title": "Dummy 5",
+            "imageUri": ""
+        }
+    ]
+}
